@@ -31,6 +31,8 @@ build/Release
 
 .vscode
 
+# some stuff as i am using VSCode (http://code.visualstudio.com)
 node_modules
 bower_components
 README.md
+jsconfig.json
