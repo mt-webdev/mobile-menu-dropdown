@@ -29,6 +29,8 @@ build/Release
 # Optional REPL history
 .node_repl_history
 
+.vscode
+
 node_modules
 bower_components
 README.md
